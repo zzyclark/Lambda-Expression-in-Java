@@ -1,0 +1,6 @@
+#Intellj Project File
+.idea
+*.iml
+
+#out
+out
